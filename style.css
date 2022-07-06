@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: 'Fira Code', monospace;
+    font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 .hero-section{
@@ -37,7 +37,7 @@
     margin-top: 20px;
     margin-bottom: 30px;
     font-size: 18px;
-    color: gray;
+    color: #FF5959;
 }.buttons{
     display: flex;
     margin-top: 43px;
@@ -46,25 +46,25 @@
 }#one-hundread{
     text-decoration: none;
     background-color: white;
-    border: 2px solid orange;
+    border: 2px solid #FF5959;
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
     border-radius: 5px;
-    color: orangered;
+    color: #FF5959;
 }#two-hundread{
     text-decoration: none;
-    background-color: orange;
-    border: 2px solid orange;
+    background-color: #FF5959;
+    border: 2px solid #FF5959;
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
     border-radius: 5px;
-    color: orangered;
+    color: white;
 }#five-hundread{
     text-decoration: none;
     background-color: white;
-    border: 2px solid orange;
+    border: 2px solid #FF5959;
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
@@ -73,7 +73,7 @@
 }#one-thousand{
     text-decoration: none;
     background-color: white;
-    border: 2px solid orange;
+    border: 2px solid #FF5959;
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
@@ -82,7 +82,7 @@
 }#two-thousand{
     text-decoration: none;
     background-color: white;
-    border: 2px solid orange;
+    border: 2px solid #FF5959;
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
