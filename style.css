@@ -32,14 +32,14 @@
     margin-top: 130px;
     text-align: center;
     font-size: 50px;
-    color: orangered;
+    color: #ff5959;
 }.donate-now p{
     color: gray;
     padding: 18px;
-    margin: 0px 220px;
+    margin: 20px 220px;
 }.buttons{
     display: flex;
-    margin-top: 43px;
+    margin-top: 43px;   
     align-items: center;
     justify-content: center;
 }#one-hundread{
@@ -59,7 +59,7 @@
     margin-right: 5%;
     padding: 20px;
     border-radius: 5px;
-    border-color: red;
+    border-color: red;  
     color: #ffffff;
 }#five-hundread{
     text-decoration: none;
@@ -88,4 +88,14 @@
     padding: 20px;
     border-radius: 5px;
     color: #FF5959;
+}.donate-plan h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 100px 0px 20px;
+    color: #FF5959;
+}.donate-plan p{
+    justify-content: center;
+    color: gray;
+    padding: 18px;
+    margin: 0px 220px;
 }
