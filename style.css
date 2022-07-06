@@ -34,10 +34,9 @@
     font-size: 50px;
     color: orangered;
 }.donate-now p{
-    margin-top: 20px;
-    margin-bottom: 30px;
-    font-size: 18px;
     color: gray;
+    padding: 18px;
+    margin: 0px 220px;
 }.buttons{
     display: flex;
     margin-top: 43px;
@@ -51,7 +50,7 @@
     margin-right: 5%;
     padding: 20px;
     border-radius: 5px;
-    color: #FF5959;
+    color: #ff5959;
 }#two-hundread{
     text-decoration: none;
     background-color: #ff8585;
