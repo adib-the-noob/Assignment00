@@ -37,7 +37,7 @@
     margin-top: 20px;
     margin-bottom: 30px;
     font-size: 18px;
-    color: #FF5959;
+    color: gray;
 }.buttons{
     display: flex;
     margin-top: 43px;
@@ -54,13 +54,14 @@
     color: #FF5959;
 }#two-hundread{
     text-decoration: none;
-    background-color: #FF5959;
+    background-color: #ff8585;
     border: 2px solid #FF5959;
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
     border-radius: 5px;
-    color: white;
+    border-color: red;
+    color: #ffffff;
 }#five-hundread{
     text-decoration: none;
     background-color: white;
@@ -69,7 +70,7 @@
     margin-right: 5%;
     padding: 20px;
     border-radius: 5px;
-    color: orangered;
+    color: #FF5959;
 }#one-thousand{
     text-decoration: none;
     background-color: white;
