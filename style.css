@@ -42,7 +42,7 @@
     margin-top: 43px;   
     align-items: center;
     justify-content: center;
-}#one-hundread{
+}#hundread{
     text-decoration: none;
     background-color: white;
     border: 2px solid #FF5959;
@@ -61,33 +61,6 @@
     border-radius: 5px;
     border-color: red;  
     color: #ffffff;
-}#five-hundread{
-    text-decoration: none;
-    background-color: white;
-    border: 2px solid #FF5959;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 20px;
-    border-radius: 5px;
-    color: #FF5959;
-}#one-thousand{
-    text-decoration: none;
-    background-color: white;
-    border: 2px solid #FF5959;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 20px;
-    border-radius: 5px;
-    color: orangered;
-}#two-thousand{
-    text-decoration: none;
-    background-color: white;
-    border: 2px solid #FF5959;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 20px;
-    border-radius: 5px;
-    color: #FF5959;
 }.donate-plan h1{
     font-size: 50px;
     text-align: center;
@@ -98,4 +71,12 @@
     color: gray;
     padding: 18px;
     margin: 0px 220px;
+}.donate-area{
+    display: flex;
+}.donate-area h4{
+    justify-content: center;
+    margin-left: 100px;
+}.donate-area p{
+    justify-content: center;
+    margin-left: 100px;
 }
