@@ -82,6 +82,7 @@
     text-align: center;
     justify-content: center;
     width: 100%;
+    font-size: 20px;
 }.donate-card{
     width: 30%;
     display: flex;
@@ -89,7 +90,7 @@
     justify-items: center;
     align-items: center;
     margin-top: 100px;
-    margin-left: 50px;
+    margin-left: 40px;
 }#food{
     background-color: #ff8585;  
     padding: 10px;
