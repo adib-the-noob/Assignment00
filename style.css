@@ -61,7 +61,27 @@
     border-radius: 5px;
     border-color: red;  
     color: #ffffff;
-}.donate-plan h1{
+}.input-donate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}.button-donate{
+    margin-top: 15px;
+    background-color: #FF5959;
+    border: 7px solid #FF5959;
+    padding: 10px;
+    border-radius: 10px;
+}
+.donate-now-input{
+    width: 30%;
+    text-align: center;
+    border:0px;  
+    outline: 0px;
+    border-bottom: 1px solid orangered;
+}
+.donate-plan h1{
     font-size: 50px;
     text-align: center;
     margin: 100px 0px 20px;
