@@ -67,6 +67,7 @@
     margin: 100px 0px 20px;
     color: #FF5959;
 }.donate-plan p{
+    align-items: center;
     justify-content: center;
     color: gray;
     padding: 18px;
@@ -75,8 +76,42 @@
     display: flex;
 }.donate-area h4{
     justify-content: center;
-    margin-left: 100px;
+    text-align: center;
+    width: 100%;
 }.donate-area p{
+    text-align: center;
     justify-content: center;
-    margin-left: 100px;
+    width: 100%;
+}.donate-card{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 50px;
+}#food{
+    background-color: #ff8585;  
+    padding: 10px;
+    border-radius: 5px;
+}
+#food img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}#shelter{
+    border-radius: 5px;
+    background-color: #ffcece;  
+    padding: 10px;;
+}
+#shelter img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}#edu{
+    border-radius: 5px;
+    background-color: #ff8585;  
+    padding: 10px;;
+}
+#edu img{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
